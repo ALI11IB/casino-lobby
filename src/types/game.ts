@@ -5,3 +5,5 @@ export interface Game {
   provider: string;
   gameType: string;
 }
+export type SearchSubmit = (searchText: string) => void;
+export type CancelSearch = () => void;

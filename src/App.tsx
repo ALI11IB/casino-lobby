@@ -4,8 +4,8 @@ import { Home, Game } from "./pages";
 
 function App() {
   return (
-    <div className="max-w-7xl mx-auto px-4">
-      <div className="fit">
+    <div className="bg-black   ">
+      <div className="fit max-w-7xl mx-auto ">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/:gameId" element={<Game />} />
