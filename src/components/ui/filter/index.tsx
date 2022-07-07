@@ -1,6 +1,5 @@
-import { Button } from "../index";
 import { useState } from "react";
-import { SearchSubmit, CancelSearch } from "../../../types/game";
+import { SearchSubmit, CancelSearch } from "../../../types";
 
 export default function CourseFilter({
   onSearchSubmit,
@@ -37,7 +36,7 @@ export default function CourseFilter({
           type="text"
           name="gaemeSearch"
           id="gaemeSearch"
-          className="w-56 h-12 xs:w-96  shadow-md  block pl-7 p-2 sm:text-sm border-none rounded-md"
+          className="w-64 h-12 xs:w-96  shadow-md  block pl-7 p-2 sm:text-sm border-none rounded-md"
           placeholder="name..."
         />
 
