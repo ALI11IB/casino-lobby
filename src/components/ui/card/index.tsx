@@ -39,7 +39,7 @@ export default function Card({ game, index }: { game: Game; index: number }) {
             />
           </div>
           <div className="w-1/2 h-full flex flex-col justify-between">
-            <div className="mt-4 mr-2 ml-3 tracking-wide text-lg text-white font-extrabold">
+            <div className="mt-4 mr-2 ml-3 tracking-wide text-lg text-white italic font-extrabold">
               {game.name}
             </div>
 

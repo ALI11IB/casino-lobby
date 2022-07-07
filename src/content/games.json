@@ -31,19 +31,7 @@
     "provider": "Skywind",
     "gameType": "video_slots"
   },
-  {
-    "id": "relax_skywind_rlx.sw.sw.sw_seofpe_945",
-    "name": "Sea of Pearls",
-    "tags": [
-      "High Volatility",
-      "Free Speed Feature",
-      "Stacked Wilds",
-      "Scatter",
-      "Skywind"
-    ],
-    "provider": "Skywind",
-    "gameType": "video_slots"
-  },
+
   {
     "id": "playngo547",
     "name": "Sisters of the Sun",
@@ -118,21 +106,7 @@
     "provider": "Playson",
     "gameType": "video_slots"
   },
-  {
-    "id": "hub88ga_gam_booksandbounties",
-    "name": "Books and Bounties",
-    "tags": [
-      "Medium Volatility",
-      "Special Wilds",
-      "Book",
-      "Mythical",
-      "Fantasy",
-      "Gamomat",
-      "Scatter"
-    ],
-    "provider": "Gamomat",
-    "gameType": "video_slots"
-  },
+
   {
     "id": "relax_skywind_rlx.sw.sw.sw_ssm_945",
     "name": "Sticky 7's Megaways",
@@ -151,20 +125,7 @@
     "provider": "Skywind",
     "gameType": "video_slots"
   },
-  {
-    "id": "playngo548",
-    "name": "Hugo Carts",
-    "tags": [
-      "High Volatility",
-      "Big Multipliers",
-      "Free Speed Feature",
-      "Random Wilds",
-      "Play N Go",
-      "Scatter"
-    ],
-    "provider": "PlayNGo",
-    "gameType": "video_slots"
-  },
+
   {
     "id": "ppvswayschilheat",
     "name": "Chilli Heat Megaways",
@@ -197,23 +158,7 @@
     "provider": "All41",
     "gameType": "video_slots"
   },
-  {
-    "id": "booming_6087befc9e1ee6001afdf220",
-    "name": "Crystal Classics",
-    "tags": [
-      "High Volatility",
-      "Bonus Buy",
-      "Big Multipliers",
-      "Grid & Cluster Pays",
-      "Random Wilds",
-      "Fruits",
-      "Bells",
-      "Booming Games",
-      "Scatter"
-    ],
-    "provider": "Booming ",
-    "gameType": "video_slots"
-  },
+
   {
     "id": "relax_slcrlx.rgs3.rgs3.11950094",
     "name": "Extreme Megaways",
@@ -239,21 +184,7 @@
     "provider": "Betsoft",
     "gameType": "video_slots"
   },
-  {
-    "id": "ygg_7408",
-    "name": "Raptor Doublemax",
-    "tags": [
-      "High Volatility",
-      "Bonus Buy",
-      "Big Multipliers",
-      "Free Speed Feature",
-      "Special Wilds",
-      "Yggdrasil",
-      "Scatter"
-    ],
-    "provider": "Yggdrasil",
-    "gameType": "video_slots"
-  },
+
   {
     "id": "rt_AmazonIslandMegaWays",
     "name": "Amazon Island MegaWays",
@@ -284,22 +215,7 @@
     "provider": "Gameburger",
     "gameType": "video_slots"
   },
-  {
-    "id": "r_relaxtrollsgold",
-    "name": "Troll's Gold",
-    "tags": [
-      "High Volatility",
-      "Bonus Buy",
-      "Big Multipliers",
-      "Re-Speed",
-      "Bonus Game",
-      "Random Wilds",
-      "Fantasy",
-      "Relax Gaming"
-    ],
-    "provider": "Relax",
-    "gameType": "video_slots"
-  },
+
   {
     "id": "playson_spirit_of_egypt",
     "name": "Spirit of Egypt: Hold and Win",

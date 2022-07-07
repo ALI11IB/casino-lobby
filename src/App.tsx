@@ -4,7 +4,7 @@ import { Home, Game } from "./pages";
 
 function App() {
   return (
-    <div className="bg-black   ">
+    <div className="bg-black min-h-screen  ">
       <div className="fit max-w-7xl mx-auto ">
         <Routes>
           <Route path="/" element={<Home />} />
