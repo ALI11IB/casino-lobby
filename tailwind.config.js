@@ -4,6 +4,11 @@ module.exports = {
   darkMode: "class", // or 'media' or 'class'
   theme: {
     extend: {
+      hueRotate: {
+        110: "110deg",
+        210: "210deg",
+        270: "270deg",
+      },
       flex: {
         2: "2 2 0%",
         3: "3 3 0%",

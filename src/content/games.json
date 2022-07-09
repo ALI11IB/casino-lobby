@@ -203,7 +203,7 @@
   },
   {
     "id": "mgs_gbsbreakDaBankAgainMegawaysV92Desktop",
-    "name": "Break Da Bank Again MEGAWAYS",
+    "name": "Break Da Bank MEGAWAYS",
     "tags": [
       "High Volatility",
       "Bonus Buy",
@@ -347,23 +347,7 @@
     "provider": "Yggdrasil",
     "gameType": "video_slots"
   },
-  {
-    "id": "mgs_tesancientFortunesPoseidonWOWPOTDesktop",
-    "name": "Ancient Fortunes: Poseidon WOWPot! Megaways",
-    "tags": [
-      "High Volatility",
-      "Big Multipliers",
-      "Bonus Game",
-      "Free Speed Feature",
-      "Megaways",
-      "Random Wilds",
-      "Romans, Greeks & Gods",
-      "Triple Edge Studios",
-      "Scatter"
-    ],
-    "provider": "Triple Edge",
-    "gameType": "progressive_slots"
-  },
+
   {
     "id": "relax_slcrlx.rgs3.rgs3.12170094",
     "name": "Wild Bounty",
@@ -525,7 +509,7 @@
   },
   {
     "id": "mgs_swsswitchMultiHandAtlanticCityBlackjackDesktop",
-    "name": "Multihand Atlantic City Blackjack ",
+    "name": "Multihand Atlantic City ",
     "tags": ["Low Volatility", "Table Games", "Blackjack", "Switch Studios"],
     "provider": "Switch",
     "gameType": "table_games"
@@ -31222,7 +31206,7 @@
   },
   {
     "id": "mgs_gbsbreakDaBankAgainRespeedDesktop",
-    "name": "Break Da Bank Again Respeed",
+    "name": "Break Da Bank Again ",
     "tags": [
       "High Volatility",
       "Big Multipliers",

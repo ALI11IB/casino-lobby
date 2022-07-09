@@ -1,14 +1,8 @@
 import { useState } from "react";
-import { SearchSubmit, CancelSearch } from "../../../types";
 
-export default function CourseFilter({
-  onSearchSubmit,
-  onCancelSearch,
-}: {
-  onSearchSubmit: SearchSubmit;
-  onCancelSearch: CancelSearch;
-}) {
-  const [searchText, setSearchTest] = useState("");
+export default function Filter(props: any) {
+  const { setQuery } = props;
+  const [value, setValue] = useState("");
 
   return (
     <div className="flex flex-col md:flex-row items-center my-4">
@@ -20,7 +14,7 @@ export default function CourseFilter({
           viewBox="0 0 24 24"
           stroke="currentColor"
           stroke-width="2"
-          onClick={() => onSearchSubmit(searchText)}
+          onClick={() => setQuery(value)}
         >
           <path
             stroke-linecap="round"
@@ -29,10 +23,8 @@ export default function CourseFilter({
           />
         </svg>
         <input
-          onChange={({ target: { value } }) =>
-            setSearchTest(value.toLowerCase())
-          }
-          value={searchText}
+          onChange={({ target: { value } }) => setValue(value.toLowerCase())}
+          value={value}
           type="text"
           name="gaemeSearch"
           id="gaemeSearch"
@@ -46,8 +38,8 @@ export default function CourseFilter({
           viewBox="0 0 20 20"
           fill="currentColor"
           onClick={() => {
-            setSearchTest("");
-            onCancelSearch();
+            setValue("");
+            setQuery("");
           }}
         >
           <path

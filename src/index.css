@@ -29,9 +29,14 @@
 .big-icon img {
   height: 103%;
 }
-
+.card {
+  min-height: 184px;
+}
 .trapozid {
-  position: relative;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 50%;
 }
 .trapozid p {
   position: relative;

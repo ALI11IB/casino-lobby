@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 
 import { Game } from "../../types";
-import { getGameById } from "../../content/fetcher";
+import { getGameById } from "../../components/common/useFetch";
 import { GameDetails } from "../../components/ui";
 
 export default function Home() {
